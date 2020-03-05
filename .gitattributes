@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html> 
+<html>
+<head> 
+<meta charset="utf-8"/> 
+<title>О стандарте HTML5</title>
+ </head>
+<body>
+С 28 октября 2014 года Консорциум Всемирной паутины официально рекомендует при создании использовать HTML5, который является языком для структурирования содержимого всемирной паутины </body>
+<p>Изменения достигнуты были здесь</p>
+</body>
+</html>
